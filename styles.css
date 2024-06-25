@@ -1,0 +1,42 @@
+* {
+    color: black;
+    background-color: rgb(210, 210, 160);
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.de-title {
+    display: block;
+    margin-bottom:-30px;
+    margin-top: 40px;
+}
+
+img {
+    margin: auto;
+    display: block;
+
+}
+
+.description {
+    display: inline-block;
+    width: 400px;
+    height: 60px;
+    margin-top: 20px;
+}
+
+.ing-list {
+    display: block;
+}
+
+.ingredients {
+    display: block;
+    margin-left: -15px;
+    margin-top: -15px;
+}
+
+.s {
+    display: block;
+}
